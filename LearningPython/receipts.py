@@ -81,4 +81,5 @@ print("$" + str(round(customer_one_total, 2)))
 #To avoid a TypeError, the float customer_one_total must be converted to a string!
 #round() function is built-in to round floats to the nearest integer. The second argument says how many decimal places to round to, in this case 2.
 
-
+#Task 20
+#Congratulations! We created our catalog and served our first customer. We used our knowledge of strings and numbers to create and update variables. We were able to print out an itemized list and a total cost for our customer. Lovely!
